@@ -3,6 +3,8 @@ Find_SQL_Injection_sites, SQL_SITES
 
 
 # installation:
-pip install google
+open CMD command and write  this :
 
-pip install beautifulsoup4
+  " pip install google " 
+
+  " pip install beautifulsoup4 " 
