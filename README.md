@@ -3,9 +3,9 @@ Find_SQL_Injection_sites, SQL_SITES
 
 
 # installation:
-Python / download here : https://www.python.org/downloads/
+1. Python / download here : https://www.python.org/downloads/
 
-open CMD command and write  this :
+2. open CMD command and write  this :
 
   " pip install google " 
 
